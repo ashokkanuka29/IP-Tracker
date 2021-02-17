@@ -29,16 +29,6 @@ print ('''
 ''')
 
 
-print   
-print	"\033[1;32mAuthor			:Mahfuzur Rahman\033[1;32m"
-print	"\033[1;32Github			:https://github.com/anonymousproo\033[1;32m"
-print	"\033[1;32mYouTube			:https://www.youtube.com/anonymouspro1			{IP Tracker v3.0}\033[1;32m"
-print	"\033[1;32mfacebook		:https://m.facebook.com/anonymousproo1\033[1;32m"
-print	"\033[1;32mcoded by		:ANONYMOUS PRO YTB\033[1;32m"
-print
-print"\033[1;33m==================================================================================================\033[1;33m"
-print ("\n\033[1;33mYour IP: \033[1;33m" + result1['query'])
-print ("\033[1;32mIf You Do Not Want To Track Type Exit\033[1;32m\n")
 
 while True:
     ip = raw_input("\033[1;36mEnter Your Target IP: \033[1;36m")
